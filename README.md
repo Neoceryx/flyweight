@@ -1,0 +1,2 @@
+# flyweight
+Patron de diseño
